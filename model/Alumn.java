@@ -4,6 +4,8 @@ public Alumn(){
 //HOLA 
 }
 
-public void excute (){
-//CODE HERE
+public void doSomething(){
+//CODE HERE...
+}
+
 }
